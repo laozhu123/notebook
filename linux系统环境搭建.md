@@ -1,3 +1,8 @@
+# redis启动
+```
+nohup redis-server &
+```
+
 # zsh
 ```
 git clone --depth=1 git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
