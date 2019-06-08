@@ -1,3 +1,9 @@
+conclusion: the pyenv  virtualenv  create the virtual environment for the pycharm, when the pycharm use
+diff env , we can activate the same env to install the lib of this version.
+so on the end , we just use the virtual env when we using the pycharm. but we can use the pyenv local global shell.
+
+
+
 #+OPTIONS: ^:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://gongzhitaao.org/orgcss/org.css" />
 
